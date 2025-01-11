@@ -107,3 +107,4 @@ python3
 * HPND License (Pillow)
 * MIT License (deepface)
 * Intel License (haarcascade_frontalface_default.xml 얼굴인식 데이터셋 파일 사용)
+  
