@@ -70,7 +70,7 @@ macOS 환경에서는 터미널에서 설치가 가능하고, 역시 경로를 �
 
 ![image](https://github.com/user-attachments/assets/7f598b79-4132-4e21-ab51-5576e00d03f2)
 
-    ( 개인정보 보호를 위해 블러처리하였습니다. )
+   ( 개인정보 보호를 위해 블러처리하였습니다. )
 
 
 
